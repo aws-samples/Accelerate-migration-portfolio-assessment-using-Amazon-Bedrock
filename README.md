@@ -1,4 +1,4 @@
-# AWS Migration Assessment and Planning Tool
+# Accelerate migration portfolio assessment using Amazon Bedrock
 
 ## Overview
 This tool provides an AI-powered solution for assessing and planning the migration of applications to AWS. It leverages Amazon Bedrock for intelligent analysis and recommendations based on application-specific data and best practices.
